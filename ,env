@@ -1,0 +1,2 @@
+DB_URI=mongodb://dbadmin:Password1@localhost:27017/newDB?authSource=admin
+PORT=8080
